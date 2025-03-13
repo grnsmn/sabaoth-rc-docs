@@ -5,8 +5,9 @@
   "blocks": [
     {
       "title": "Documentazione Sabaoth Reggio",
+      "subtitle": " ",
       "document": "docs/intro.mdx",
-      "documentLabel": "Docusaurus Tutorial - 5min ⏱️",
+      "documentLabel": "Calendario turni",
       "_template": "hero"
     },
     {
