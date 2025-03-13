@@ -4,6 +4,7 @@
   "description": " ",
   "blocks": [
     {
+      "title": "Documentazione Sabaoth Reggio",
       "document": "docs/intro.mdx",
       "documentLabel": "Docusaurus Tutorial - 5min ⏱️",
       "_template": "hero"
