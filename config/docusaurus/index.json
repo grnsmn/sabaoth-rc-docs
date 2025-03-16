@@ -12,13 +12,6 @@
       "link": "doc",
       "docLink": "docs/intro.mdx",
       "position": "left"
-    },
-    {
-      "label": "MDX Page",
-      "link": "page",
-      "docLink": "src/pages/Test-MDX-Page.mdx",
-      "pageLink": "src/pages/Test-MDX-Page.mdx",
-      "position": "left"
     }
   ],
   "footer": {
@@ -58,10 +51,6 @@
         "title": "More",
         "items": [
           {
-            "label": "Blog",
-            "_template": "blog"
-          },
-          {
             "label": "GitHub",
             "href": "https://github.com/facebook/docusaurus",
             "_template": "external"
@@ -69,6 +58,6 @@
         ]
       }
     ],
-    "copyright": "My Project, Inc. Built with Docusaurus."
+    "copyright": "Sabaoth Reggio Calabria"
   }
 }
