@@ -52,7 +52,7 @@
         "items": [
           {
             "label": "GitHub",
-            "href": "https://github.com/facebook/docusaurus",
+            "href": "https://github.com/grnsmn/sabaoth-rc-docs",
             "_template": "external"
           }
         ]
