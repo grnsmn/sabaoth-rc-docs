@@ -18,31 +18,11 @@
     "style": "dark",
     "links": [
       {
-        "title": "Docs",
-        "items": [
-          {
-            "label": "Introduction",
-            "to": "docs/intro.mdx",
-            "_template": "internal"
-          }
-        ]
-      },
-      {
         "title": "Community",
         "items": [
           {
-            "label": "Stack Overflow",
-            "href": "https://stackoverflow.com/questions/tagged/docusaurus",
-            "_template": "external"
-          },
-          {
-            "label": "Discord",
-            "href": "https://discordapp.com/invite/docusaurus",
-            "_template": "external"
-          },
-          {
-            "label": "Twitter",
-            "href": "https://twitter.com/docusaurus",
+            "label": "I nostri canali",
+            "href": "https://zaap.bio/sabaothreggiocalabria?fbclid=PAY2xjawJeGxcBpj5K697EEQ0evAqm6C47myYnp4JkSFghZBsM1BPDjSFRd0Az8co7edyFpA",
             "_template": "external"
           }
         ]
